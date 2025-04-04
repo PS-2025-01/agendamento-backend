@@ -18,5 +18,4 @@ describe('AppController (e2e)', () => {
   it('testando contexto', () => {
     expect(app).toBeDefined();
   });
-
 });
